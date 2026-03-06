@@ -134,8 +134,18 @@ PRs welcome! Ideas for improvement:
 
 MIT — use it, fork it, share it.
 
-## Credits
+## About the Author
 
-Created by [Your Name] — making coaching accessible to everyone.
+Created by **Bonnie Ma**, an ICF-trained life coach whose mission is to help develop the whole person — spirit, heart, and body — to live a fulfilled and balanced life.
+
+### A Note on How This Was Built
+
+This skill was **not** trained on any past coaching conversations. Instead, it draws from the knowledge, frameworks, and training I've received from various ICF-certified coaching institutions. The goal is to bring the principles of professional coaching to anyone who needs a moment of reflection — no session fee required.
+
+## Feedback Welcome
+
+Have ideas for improvement? Found something that doesn't land right? I'd love to hear from you. Open an issue or submit a PR — coaching is a practice, and this tool can always grow.
+
+## Credits
 
 Inspired by ICF (International Coach Federation) coaching standards and Co-Active coaching principles.
